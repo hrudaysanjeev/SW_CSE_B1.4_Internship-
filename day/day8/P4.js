@@ -6,7 +6,7 @@ console.log(x)
 if (true) {
     var message= "hello";
 }
-console.log(message);
+console.log(message)
 
 let score= 50;
 // let score= 50;
@@ -14,6 +14,6 @@ score=100;
 console.log(score)
 
 if(true){
-    let secret="sanju@123";
+    let secret="sanju@123"
 }
-console.log(secret);
+console.log(secret)
